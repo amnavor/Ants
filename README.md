@@ -1,8 +1,4 @@
 # Ants
-
-![screenshot](https://cloud.githubusercontent.com/assets/12720744/12224452/af023f5c-b7a5-11e5-9008-954661b340d3.png)
-All GUI, including image above, are by UC Berkeley CS61A staff.
-
 Synopsis
 -------------
 The Ants game is a play on PopCap's Plants vs. Zombies. Use different 
@@ -15,3 +11,8 @@ environments. More information is available in Ants.py
 This file is written in Python using object oriented programming. This project 
 was for the UC Berkeley CS61A course; therefore, staff files like tests files 
 and GUI files are not included. 
+
+![screenshot](https://cloud.githubusercontent.com/assets/12720744/12224452/af023f5c-b7a5-11e5-9008-954661b340d3.png)
+All GUI, including image above, are by UC Berkeley CS61A staff.
+
+

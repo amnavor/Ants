@@ -13,6 +13,6 @@ was for the UC Berkeley CS61A course; therefore, staff files like tests files
 and GUI files are not included. 
 
 ![screenshot](https://cloud.githubusercontent.com/assets/12720744/12224452/af023f5c-b7a5-11e5-9008-954661b340d3.png)
-All GUI, including image above, are by UC Berkeley CS61A staff.
+GUI/images by UC Berkeley CS61A staff.
 
 

@@ -1,6 +1,6 @@
 # Ants
 Synopsis
--------------
+------------
 The Ants game is a play on PopCap's Plants vs. Zombies. Use different 
 types of Ants with unique offensive and defensive moves to fend off 
 invading bees and protect the Queen Ant. For example, use the throwerAnt

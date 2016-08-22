@@ -9,8 +9,7 @@ ants. Player must collect food to add more ants, and be wary of specific.
 environments. More information is available in Ants.py
 
 This file is written in Python using object oriented programming. This project 
-was for the UC Berkeley CS61A course; therefore, staff files like tests files 
-and GUI files are not included. 
+was for the UC Berkeley CS61A course.
 
 ![ants](https://cloud.githubusercontent.com/assets/12720744/17600556/e27707e4-5fb8-11e6-9d4e-58a2aea752e0.gif)
 GUI/images by UC Berkeley CS61A staff.
